@@ -1,0 +1,1037 @@
+*{
+    margin:0;
+    padding: 0;
+   
+}
+html{
+    scroll-behavior: smooth;
+}
+.container{
+    width: 100%;
+    height: 4500px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+  
+    
+
+    
+}
+.icon{
+    font-size: 45px;
+    color: white;
+    
+ position: absolute;
+right: 2%;
+display: none;
+
+    
+}
+button:hover{
+    background: orangered;
+}
+.header{
+	width: 100%;
+	height: 70px;
+    position: absolute;
+	background: none;
+	color: black;
+    z-index: 10;
+    text-transform: uppercase;
+    background: #fff;
+    opacity: 1;
+	font-size: 18px;
+	vertical-align: center;
+    position: fixed;
+	
+
+
+}
+.logo p{
+    font-size: 12px;
+    font-weight: lighter;
+    color: yellow;
+    
+
+}
+.header ul li{
+    display: inline-block;
+    margin-right: 2.5%;
+  
+
+}
+.header a{
+    text-decoration: none;
+    color: black;
+}
+.header a:hover{
+ color: red;
+}
+.header ul{
+    display: inline-block;
+    text-decoration: none;
+    width: 70%;
+    padding-top: 20px;
+    height: 100%;
+    margin-left: 30%;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    letter-spacing: 1px;
+    
+}
+
+
+.logopng{
+    width: 65%;
+    left: 0;
+    height: 60px;
+    position: absolute;
+    
+}
+
+
+
+
+
+
+
+
+
+.first{
+    width: 100%;
+    height: 700px;
+    background-image: url("kid1.jpg");
+    background-size: cover;
+    
+   
+
+
+}
+.first1{
+    margin-top: 20%;
+    position: absolute;
+    width: 60%;
+    background: black;
+opacity: 0.8;
+border-top-right-radius: 50%;
+border-bottom-right-radius: 50%;
+
+    height: 50%;
+}
+.second{
+    width: 100%;
+    height: 700px;
+    background: #f2f3f5;
+    text-align: center;
+
+}
+
+.third{
+    width: 80%;
+    margin-left: 10%;
+    height: 300px;
+    background: #e8e8e8;
+    
+    text-align: center;
+
+}
+.fourth{
+    width: 100%;
+    height: 700px;
+    background: #f2f3f5;
+    text-align: center;
+
+}
+.fifth{
+    width: 100%;
+    height: 300px;
+    background: #4d4c48;
+   
+    text-align: center;
+
+}
+.sixth{
+    width: 100%;
+    height: 700px;
+    background: #f2f3f5;
+    text-align: center;
+
+}
+.seventh{
+    width: 100%;
+    height: 1000px;
+    background: black;
+    color: white;
+    text-align: center;
+
+}
+.footer{
+    width: 100%;
+    height: 200px;
+    background: #5c5846;
+    color: white;
+    bottom: 0;
+   
+}
+.logo{
+    width: 20%;
+    height: 100%;
+}
+
+.second img{
+    width: 40%;
+    height: 400px;
+}
+
+.fourth img{
+    width: 40%;
+    height: 400px;
+}
+
+.sixth img{
+    width: 40%;
+    height: 400px;
+}
+
+
+.logo{
+    position: absolute;
+    width: 18%;
+    height: 100%;
+    margin-top: 10px;
+}
+.logo h1{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: serif;
+    color: #07a689;
+
+}
+.first h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: #fff;
+    word-spacing: 5px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    margin-top: 5px;
+
+
+}
+.first h2{
+    font-size: 25px;
+    font-family: cursive;
+    color:  lightgreen;
+    
+    margin-top: 10px;
+    text-transform: uppercase;
+    
+
+}
+.first p{
+    color: white;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    padding-bottom: 10px;
+    margin-top: 15px;
+
+}
+.second h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    word-spacing: 5px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+
+
+}
+.second h2{
+    font-size: 45px;
+    font-family: cursive;
+    color: red;
+    text-transform: uppercase;
+    
+
+}
+.second p{
+    color: black;
+    width: 80%;
+    margin-left: 10%;
+    padding-bottom: 10px;
+    font-size: 18px;
+
+}
+.second h3{
+    margin-top: 5%;
+    font-style: italic;
+    text-decoration: underline;
+}
+.second01{
+    margin-top: 10%;
+}
+.btn1{
+    color: black;
+    background: white;
+    padding: 15px;
+    width: 30%;
+    height: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-top: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+
+.second1{
+    width: 50%;
+    height: 100%;
+    position: absolute;
+
+}
+.second2{
+    width: 45%;
+    height: 100%;
+    margin-left: 55%;
+
+}
+.second2 img{
+width: 70%;
+height: 38%;
+margin-top: 25px;
+}
+.table{
+    width: 40%;
+    height: 200px;
+}
+.third1{
+
+    position: absolute;
+    width: 40%;
+    height: 300px;
+    background: #07a689;
+}
+.third2{
+    width: 50%;
+    margin-left: 50%;
+    height: 300px;
+    background: #d4b104;
+}
+.third h1{
+    font-size: 30px;
+    font-weight: bolder;
+    color: #fff;
+    word-spacing: 5px;
+    letter-spacing: 8px;
+    padding-top: 25px;
+    text-transform: uppercase;
+
+
+}
+.third p{
+    text-transform: capitalize;
+    font-size: 15px;
+    padding: 10px;
+
+}
+.third a{
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: 10px;
+    background: black;
+    color: white;
+    letter-spacing: 2px;
+}
+.fourth-a{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 25px;
+    height: 400px;
+    position: absolute;
+  
+   
+    text-transform: capitalize;
+
+
+}
+.fourth-a h3{
+text-transform: uppercase;
+}
+.fourth h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    word-spacing: 5px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+
+
+}
+.img1{
+    position: absolute;
+    width: 30%;
+    height: 300px;
+    margin-left: 3%;
+    margin-top:25px;
+    background: #dedede;
+    text-align: center;
+}
+.fourth-a img{
+   
+    width: 100%;
+    height: 70%;
+}
+.img2{
+    position: absolute;
+    
+    margin-top:25px;
+    width: 30%;
+    height: 300px;
+    margin-left: 35%;
+    background: #dedede;
+    text-align: center;
+}
+.img3{
+margin-left: 60%;
+
+margin-top:25px;
+width: 30%;
+height: 300px;
+margin-left: 67%;
+background: #dedede;
+text-align: center;
+}
+.fourth h2{
+    font-size: 45px;
+    font-family: cursive;
+    color: red;
+    text-transform: uppercase;
+    
+
+}
+.fourth p{
+    color: black;
+    width: 80%;
+    margin-left: 10%;
+    padding-bottom: 10px;
+    font-size: 18px;
+
+}
+.fourth02{
+    width: 100%;
+    
+  
+    position:absolute;
+}
+
+.fifth1{
+   
+    
+    width: 20%;
+    margin-left: 10%;
+    position: absolute;
+}
+.fifth2{
+   
+ 
+    width: 20%;
+    margin-left: 40%;
+    position: absolute;
+}
+.fifth3{
+   
+  
+    width: 20%;
+    margin-left: 70%;
+    position: absolute;
+}
+.fifth h1{
+    font-size: 25px;
+    font-weight: bold;
+    color: #fff;
+    margin-top: 50px;
+    letter-spacing: 5px;
+    text-transform: uppercase;
+
+
+}
+.fifth p{
+    font-size: 15px;
+    color: #FFF;
+    margin-top: 10px;
+    padding: 10px;
+}
+.sixth1{
+    width: 100%;
+    height: 700px;
+    position: absolute;
+}
+.sixth2{
+    width: 45%;
+    height: 100%;
+    margin-left: 55%;
+}
+
+.sixth h1{
+    font-size: 50px;
+    font-weight: bolder;
+    color: black;
+    word-spacing: 5px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+
+
+}
+.sixth h2{
+    font-size: 45px;
+    font-family: cursive;
+    color: red;
+    text-transform: uppercase;
+    
+
+}
+table{
+    width: 40%;
+    height: 400px;
+    margin-left: 30%;
+    text-transform: uppercase;
+   margin-bottom: 10px;
+    margin-top: 20px;
+    color: black;
+    opacity: 0.6;
+    
+}
+td{
+    border-bottom: 2px solid black;
+}
+.sixth p{
+    color: black;
+    width: 80%;
+    margin-left: 10%;
+    padding-bottom: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+
+}
+.sixth h3{
+   
+    font-weight: bold;
+    text-transform: capitalize;
+    font-size: 20px;
+
+}
+.sixth01{
+    margin-top: 20%;
+}
+.sixth img{
+    margin-top: 100px;
+    margin-left: 3%;
+    width: 45%;
+    height: 40%;
+}
+
+.btn3{
+    color: whitesmoke;
+    background: black;
+    padding: 15px;
+    width: 50%;
+    height: 50px;
+    text-transform: uppercase;
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+   margin-top: 15px;
+    font-weight: bold;
+    letter-spacing: 2px;
+
+}
+
+
+.scrolb{
+    transform: rotate(45deg);
+    position: absolute;
+}
+.footer1
+{
+
+    position: absolute;
+    width: 85%;
+    height: 100px;
+    font-size: 15px;
+    margin-left: 7.5%;
+    margin-top: 100px;
+    color: #d2d4d3;
+}
+.footer1 a{
+    text-decoration: none;
+    color: rgb(248, 15, 15);
+    text-transform: uppercase;
+    font-weight: bold;
+
+}
+.seventh1{
+    width: 70%;
+    height: 100%;
+    margin-left: 15%;
+}
+
+.map{
+    width: 100%;
+    height: 200px;
+    margin-top: 50px;
+
+}
+.mapi{
+    width: 40%;
+ 
+    height: 200px;
+}
+.feed1{
+    width: 100%;
+    height: 200px;
+    
+    margin-top: 25px;
+}
+.feed01{
+    width: 70%;
+    height: 150px;
+    padding-top: 25px;
+    
+    margin-left: 30%;
+}
+.sixth h1{
+    font-size: 25px;
+}
+.sixth h3{
+    margin-top: 5%;
+}
+.feed02{
+    width: 70%;
+    height: 150px;
+    padding-top: 25px;
+    margin-left: 30%;
+    
+}
+.seventh a{
+    text-decoration: none;
+    font-weight: bold;
+    color: white;
+    font-style: italic;
+}
+.feed1 img{
+    width: 15%;
+    height: 200px;
+    margin-top: 25px;
+    position: absolute;
+    border-radius: 50%;
+    left: 15%;
+}
+.feed2 img{
+    width: 15%;
+    height: 200px;
+    border-radius: 50%;
+    position: absolute;
+    left: 15%;
+    top: 30%;
+  
+}
+.feed2{
+    width: 100%;
+    height: 200px;
+   
+    margin-top: 25px;
+}
+.branch1{
+    width: 100%;
+    height: 150px;
+}
+.branch1 p{
+    margin-left: 30%;
+   padding-top: 20px;
+
+    width: 50%;
+}
+.branch2 p{
+    margin-left: 30%;
+    width: 50%;
+    padding-top: 20px;
+
+}
+.branch3 p{
+    margin-left: 30%;
+    width: 50%;
+    padding-top: 20px;
+}
+
+.branch2{
+    width: 100%;
+    height: 150px;
+}
+
+.branch3{
+    width: 100%;
+    height: 150px;
+}
+
+.branch_map{
+    position: absolute;
+    left: 20%;
+  width: 200px;
+  height: 100px;
+
+}
+.scrol{
+    width: 10%;
+    height: 150px;
+    position: absolute;
+   text-decoration: none;
+   left: 42%;
+   color: white;
+   font-weight: bolder;
+   font-size: 10px;
+   background: #5c5846;
+   margin-top: 20px;
+   margin-left: 3%;
+  transform: rotate(-45deg);
+   padding-top: 30px;
+  border-radius: 25%;
+  letter-spacing: 1px;
+   
+  
+}
+
+.footer1{
+   
+    height: 150px;
+    width: 20%;
+    margin-left: 10%;
+    position: absolute;
+ 
+    margin-top: 40px;
+    
+}
+.footer2{
+    margin-top: 40px;
+ height: 100px;
+    width: 20%;
+    margin-left: 40%;
+    position: absolute;
+}
+.footer3 input{
+    margin-top: 10px;
+    width: 30%;
+    padding: 10px;
+}
+.footer3 button{
+    margin-top: 10px;
+    width: 25%;
+    font-weight: bold;
+    padding:20px;
+    font-size: 12px;
+    color: white;
+    border: none;
+    background: orangered;
+}
+.footer3{
+    margin-top: 40px;
+  height: 100px;
+    width: 30%;
+    margin-left: 70%;
+    position: absolute;
+}
+.footer1 h1{
+    font-size: 25px;
+    font-weight: lighter;
+    padding-top: 15px;
+}
+.footer1 p{
+    font-size: 15px;
+    font-weight: gray;
+
+}
+.footer2 h1{
+    font-size: 25px;
+    font-weight: lighter;
+    padding-top: 15px;
+}
+.footer2 p{
+    font-size: 15px;
+    font-weight: gray;
+
+}
+.footer3 h1{
+    font-size: 25px;
+    font-weight: lighter;
+    padding-top: 15px;
+}
+.footer3 p{
+    font-size: 15px;
+    font-weight: gray;
+
+}
+@media only screen and (max-width: 700px)
+{
+
+    .container{
+    height: 5000px;
+
+    }
+    .icon{
+        display: block;
+      top: 0;
+z-index: 10;
+cursor: pointer;
+       position: fixed;
+
+    }
+    .first1 h1{
+        font-size: 35px;
+        letter-spacing: 1px;
+    }
+    .first1 h2{
+        font-size: 25px;
+    }
+    .first1 p{
+        font-size: 15px;
+    }
+    .first1 button{
+        width: 40%;
+        font-size: 10px;
+    }
+    .first1{
+      background: none;
+      text-align: center;
+      margin-top: 200px;
+    }
+   .header  ul{
+   margin-left: 0;
+    background: #3f4242;
+    width: 100%;
+    position: relative;
+    height: 100vh;
+    text-align: center;
+    display: none;
+  
+    }
+    .header ul li {
+        text-align: center;
+        font-size: 15px;
+        display: block;
+        padding: 25px;
+    }
+    .second1{
+        width: 100%;
+        
+    }
+    .second01 h1{
+        font-size: 25px;
+        
+    }
+    .second01 h2,h3{
+        font-size: 18px;
+    }
+    .second01 p{
+        margin-top: 15px;
+        font-size: 15px;
+    }
+    .second2{
+margin-left: 0;
+width: 100%;
+opacity: 0.3;
+    }
+    .third1 h1{
+        font-size: 15px;
+    }
+    .third2 h1{
+        font-size: 15px;
+    }
+    .third1 h2{
+        font-size: 25px;
+    }
+    .table{
+        width: 100%;
+        margin-left: 0;
+    }
+    .fourth h1{
+        font-size: 20px;
+        letter-spacing: 1px;
+    }
+    .fourth-a{
+        height: 300px;
+    }
+    .fourth{
+        height: 770px;
+    }
+    .img1{
+        margin-top: 10px;
+        height: 250px;
+       
+    }
+    .img1 h3{
+        font-size: 10px;
+        padding: 10px;
+    }
+    .img1 p{
+        font-size: 10px;
+    }.img2 h3{
+        font-size: 10px;
+        padding: 10px;
+    }
+    .img2 p{
+        font-size: 10px;
+    }.img3 h3{
+        font-size: 10px;
+        padding: 10px;
+    }
+    .img3 p{
+        font-size: 10px;
+    }
+    
+    .img2{
+        margin-top: 10px;
+        height: 250px;
+    }
+    
+    .img3{
+        margin-top: 10px;
+        height: 250px;
+    }
+    .fifth h1{
+        font-size: 22px;
+    }
+    
+    .fifth1{
+        width: 30%;
+        margin-left: 3%;
+
+    }
+    .fifth2{
+        width: 30%;
+        margin-left: 36%;
+    }
+    .fifth3{
+        width: 30%;
+        margin-left: 69%;
+    }
+    
+    .fifth h2{
+        font-size:20px;
+    }
+
+    .sixth h1{
+
+        font-size: 30px;
+    }
+    .sixth h3{
+        font-size: 12px;
+    }
+    .sixth p{
+        font-size: 15px;
+    }
+    .sixth img{
+        width: 30%;
+        height: 180px;
+        left: 5%;
+    }
+    .seventh{
+        height: 1100px;
+    }
+    .seventh h2{
+        font-size: 15px;
+        letter-spacing: 2px;
+    }
+    .seventh p{
+        margin-top: 10px;
+        font-size: 15px;
+    }
+    .seventh img{
+        width: 28%;
+        height: 150px;
+        left: 5%;
+        
+    }
+    .branch_map{
+        left: 7%;
+    }
+    .branch1{
+        margin-left: 20%;
+      
+        
+    }
+    .branch2{
+        margin-left: 20%;
+        
+    }
+    .branch3{
+        margin-left: 20%;
+        
+    }
+    .mapi{
+        width: 100%;
+        height: 150px;
+    }
+    .scrol{
+        display: none;
+        position: absolute;
+    }
+    .footer1 p{
+        text-align: center;
+        top: 0;
+        
+
+    }
+    .footer{
+        width: 100%;
+        height: 600px;
+        text-align: center;
+        bottom: 0;
+
+    }
+    .footer1{
+        width: 100%;
+        position: relative;
+        margin-left: 0;
+       
+    }
+    
+    .footer2{
+        width: 100%;
+        position: relative;
+      margin-left: 0;
+        
+    }
+    
+    .footer3{
+        width: 100%;
+        position: relative;
+        margin-left: 0;
+        
+    }
+    .footer h1{
+        font-size: 35px;
+    }
+    .footer p{
+        font-size: 25px;
+    }
+    .footer input{
+       
+        
+        width: 60%;
+        height: 25px;
+    }
+    .footer button{
+       
+       font-size: 18px;
+       letter-spacing: 2px;
+        width: 40%;
+        height: 60px;
+    }
+}
